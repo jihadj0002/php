@@ -56,7 +56,7 @@ function render_custom_dashboard_widget()
 {
     echo '<h2>Website Statistics</h2>';
     echo '<p>Here you can display your website statistics.</p>';
-    // You can add more HTML or PHP code to display actual statistics here.
+    // You can add more HTML or PHP code to display actual statistics here.s
 }
 
 function add_plugin_page() {
